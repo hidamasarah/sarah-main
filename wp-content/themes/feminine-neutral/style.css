@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Feminie Neutral
+ Theme URI:    http://www.saraheggers.com
+ Description:  Feminie Neutral Theme, a child theme of omega
+ Author:       Sarah Eggers
+ Author URI:   http://www.saraheggers.com
+ Template:     omega
+ Version:      1.0.0
+ Tags:         blog, light, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  feminine-neutral
+ */
+
+
+@import url("../omega/style.css");
+
+/*  Put your style changes here */
+
