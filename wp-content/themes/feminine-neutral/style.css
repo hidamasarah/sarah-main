@@ -15,3 +15,62 @@
 
 /*  Put your style changes here */
 
+/* Basic Styles */
+
+h2 {
+    font-family: 'La Belle Aurore', cursive;
+}
+
+h1
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Droid Sans', sans-serif;
+}
+
+
+body {
+    font-family:'Arvo', serif;
+}
+
+.site-title a, .site-title a:hover {
+    color: #998693;
+}
+
+a {
+    color: #9ba4a9;
+    text-decoration: none;
+}
+
+a:hover {
+     color: #998693;
+    text-decoration: none;
+}
+
+/* About sidebar styles */
+
+.post-author {
+	padding: 0 35px 40px;
+	border-bottom: 1px solid #BFBFBF;
+}
+.widget .post-author {
+	margin: 0 -40px;
+}
+.post-author .avatar {
+	border-radius: 50%;
+	overflow: hidden;
+	width: 184px;
+	height: 184px;
+	margin: 0 auto 25px;
+}
+.post-author .avatar img {
+	width: 100%;
+	height: 100%;
+}
+.post-author .intro-text a {
+	color: inherit;
+	font-weight: bold;
+}
+
+    
