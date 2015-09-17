@@ -1,5 +1,4 @@
-
-add_action( 'widgets_init', 'theme_slug_widgets_init' );
+<?php add_action( 'widgets_init', 'theme_slug_widgets_init' );
 function theme_slug_widgets_init() {
 
     register_sidebar( array(

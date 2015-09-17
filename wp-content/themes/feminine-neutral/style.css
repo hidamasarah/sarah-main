@@ -1,5 +1,5 @@
 /*
- Theme Name:   Feminie Neutral
+ Theme Name:   Feminine Neutral
  Theme URI:    http://www.saraheggers.com
  Description:  Feminie Neutral Theme, a child theme of omega
  Author:       Sarah Eggers
@@ -17,25 +17,35 @@
 
 /* Basic Styles */
 
-h2 {
+/* h2 {
     font-family: 'La Belle Aurore', cursive;
 }
+
+*/
 
 h1
 h3,
 h4,
 h5,
 h6 {
-    font-family: 'Droid Sans', sans-serif;
+    font-family: 'Raleway';
 }
 
 
 body {
-    font-family:'Arvo', serif;
+    font-family:'Quicksand', sans-serif;
 }
 
 .site-title a, .site-title a:hover {
     color: #998693;
+}
+
+.title-area h1 {
+    font-family: 'La Belle Aurore', cursive;   
+}
+
+.title-area h2 {
+    font-family: 'La Belle Aurore', cursive;   
 }
 
 a {
@@ -71,6 +81,18 @@ a:hover {
 .post-author .intro-text a {
 	color: inherit;
 	font-weight: bold;
+}
+
+/* Blog archive page */
+
+.entry-title {
+    font-size: 2em;
+    
+}
+
+.entry-header h2 {
+
+font-family: 'Raleway', sans-serif;
 }
 
     
