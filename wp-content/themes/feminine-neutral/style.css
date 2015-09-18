@@ -17,11 +17,7 @@
 
 /* Basic Styles */
 
-/* h2 {
-    font-family: 'La Belle Aurore', cursive;
-}
 
-*/
 
 h1
 h3,
@@ -94,5 +90,27 @@ a:hover {
 
 font-family: 'Raleway', sans-serif;
 }
+
+
+/* Featured posts on Front Page - Sidebar */
+
+
+
+.content {
+	float: left;
+	width: 100%;
+}
+
+/* Primary Sidebar */
+
+.sidebar-primary {
+	width: 100%;
+	padding-top: 10px;
+}
+
+.sidebar-primary a {
+	text-decoration: underline;
+}
+
 
     
