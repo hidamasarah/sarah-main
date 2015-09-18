@@ -32,6 +32,10 @@ body {
     font-family:'Quicksand', sans-serif;
 }
 
+p {
+    font-size: 1.1em;
+}
+
 .site-title a, .site-title a:hover {
     color: #998693;
 }
@@ -53,6 +57,24 @@ a:hover {
      color: #998693;
     text-decoration: none;
 }
+
+/* Front Page styles */
+
+.front-page-container {
+    height: 500px;
+    width:100%;
+    padding-top:20px;
+    padding-bottom:20px;
+    clear:both;
+}
+
+
+
+
+
+
+
+
 
 /* About sidebar styles */
 
@@ -104,13 +126,31 @@ font-family: 'Raleway', sans-serif;
 /* Primary Sidebar */
 
 .sidebar-primary {
-	width: 100%;
-	padding-top: 10px;
+    width: 100%;
+    border-top: none;
+    
+}
+
+
+
+#wp_posts_carousel-2 {
+ background-image: url('http://localhost:8888/sarah-main/wp-content/uploads/2015/09/widgetbg.png');
+   
+    
+    
 }
 
 .sidebar-primary a {
 	text-decoration: underline;
 }
 
+.wp-posts-carousel-container {
+    width:250px;
+}
+
+.light-theme.wp-posts-carousel {
+    height:417pxpx;
+}
+    
 
     

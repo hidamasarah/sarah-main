@@ -9,13 +9,10 @@
 
 get_header(); ?>
 
-<!--- Primary Sidebar/Featured Posts -->
-<h2>Popular Posts</h2>
-<?php get_sidebar('primary'); ?>
 
-<!---- end ----->
 
 <!--- front page content --->
+
 
 <div class="front-page-container">
 
@@ -23,6 +20,6 @@ get_header(); ?>
 
 </div>
 
-
+<!--- end content -->
 
 <?php get_footer(); ?>
