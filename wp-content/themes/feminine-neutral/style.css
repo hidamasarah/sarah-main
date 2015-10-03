@@ -27,6 +27,16 @@ h6 {
     font-family: 'Raleway';
 }
 
+h2 {
+    font-size:1.6em;
+}
+
+h3 {
+    font-size: 1.4em;
+}
+
+
+
 
 body {
     font-family:'Quicksand', sans-serif;
@@ -126,10 +136,8 @@ font-family: 'Raleway', sans-serif;
 
 .sidebar-primary {
     width: 100%;
-    border-top: none;
-    
+    border-top: none;   
 }
-
 
 
 #wp_posts_carousel-2 {
@@ -156,12 +164,42 @@ font-family: 'Raleway', sans-serif;
     Float:left;
     width:30%;
     min-width: 150px;
-    height:300px;   
-    
+    height:300px; 
 }
 
 #blog-left{
     float:right;
     width:65%;
 }
+
+
+/* Design page styles */
+
+.design-page h1 {
+    
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 2.4em;
+    color: #ddaa99;
+    text-align: center;
+}
+
+.design-page h3 {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.design-page {
+    border-bottom: 1px solid #BFBFBF;
+}
+
+
+.services {
+    padding-top:40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #BFBFBF;
+}
+
+    
+    
+
     

@@ -1,6 +1,5 @@
-<?php
 /**
- * The template for displaying the web design sell page
+ * The template for displaying the services
  *
  * @package WordPress
  * @subpackage Feminine Neutral
@@ -9,20 +8,7 @@
 
 get_header(); ?>
 
-<div class="design-page">
 
-<h1> Let’s make something beautiful. </h1>
-
-<h3>I help creative bloggers and small business owners make a remarkable impression online with gorgeous and effective web design. </h3>
-
-
-<p>I am a WordPress developer and web designer, and my passion is to build blogs and websites for lifestyle bloggers and small businesses. </P>
-
-<P>I'm here to help you, from the big changes to the small fixes. I can create a whole new site or blog for you, customize and install a new theme for you, update a theme or style you already love, or just make a few changes to fix errors and swap out content on your website or blog.  </P>
-
-<P>Below, you’ll find the packages I offer, along with standard extras. If you need help choosing what’s right for you, or if you want to discuss adding on other custom extras, please reach out for a free phone or video consultation. I love talking about site design and brand strategy, and I’d love to talk through your project with you. </p>
-
-</div>
 
 <div class="services-list">
     <div class="services">    
@@ -76,39 +62,38 @@ get_header(); ?>
  
         </div>
 
- <div class="services">  
-<h2>Add-Ons</h2>
-<ul>Add a signature or photo to all of your blog posts —$50</li>
- <li>Plugins to optimize your blog for Pinterest —$30</li>
- <li>Custom-designed sidebar —$200</li>
-<li>Add an image carousel to your main page —$75</li>
-<li>Sarah’s Must-Have Plugins for your blog —$55</li>
-<li>Google Analytics — $35</li>
-<li>Branded contact form—$55</li>
-<li>Custom navigation bar—$125</li>
-<li>Email newsletter signup form for the sidebar —$130</li>
-<li>Custom-designed horizontal header newsletter signup—$175</li>
-<li>Custom page—$150-$300</li>
-<li>Support Services for 3 months— $75-$200</li>
-<li>Site migration — Ask Me!</li></ul>
 
-    </div>
+Add-Ons
+Add a signature or photo to all of your blog posts —$50
+ Plugins to optimize your blog for Pinterest —$30
+ Custom-designed sidebar —$200
+Add an image carousel to your main page —$75
+Sarah’s Must-Have Plugins for your blog —$55
+Google Analytics — $35
+Branded contact form—$55
+Custom navigation bar—$125
+Email newsletter signup form for the sidebar —$130
+Custom-designed horizontal header newsletter signup—$175
+Custom page—$150-$300
+Support Services for 3 months— $75-$200
+Site migration — Ask Me!
 
 
- <div class="services">  
-<h2><i>New!</i> Teach Me Series</h2>
+
+
+Teach Me Series
  
-<P>Want to learn how to do-it-yourself? The Teach Me Series gives you the opportunities to get hands-on training to make your own changes to your WordPress site or blog. Pick from one of the topics below, or contact me to request your own topic.</P>
+Want to learn how to do-it-yourself? The Teach Me Series gives you the opportunities to get hands-on training to make your own changes to your WordPress site or blog. Pick from one of the topics below, or contact me to request your own topic.
 
-<ul><li>Teach me how to embed a Pinterest board into my blog sidebar</li>
-<li>Teach me how to add a signature to all my blog posts</li>
-<li>Teach me how to add an email newsletter signup form to my blog</li>
-<li>Teach me how to use plugins</li>
-<li>Teach me how to make basic customizations to my theme</li>
-<li>Teach me how to add pages to my blog</li></ul>
+Teach me how to embed a Pinterest board into my blog sidebar
+Teach me how to add a signature to all my blog posts
+Teach me how to add an email newsletter signup form to my blog
+Teach me how to use plugins
+Teach me how to make basic customizations to my theme
+Teach me how to add pages to my blog
+
+
 
 </div>
-
-
 
 <?php get_footer(); ?>
