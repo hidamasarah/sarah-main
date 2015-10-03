@@ -19,4 +19,6 @@ get_header(); ?>
 	do_action( 'omega_after_content' ); 
 	?>
 </main><!-- .content -->
+
+<h2> EEEUUUGGHGHH</h2>
 <?php get_footer(); ?>

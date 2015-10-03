@@ -72,18 +72,13 @@ a:hover {
 
 
 
-
-
-
-
-/* About sidebar styles */
+/* About Me sidebar styles */
 
 .post-author {
-	padding: 0 35px 40px;
 	border-bottom: 1px solid #BFBFBF;
-}
-.widget .post-author {
-	margin: 0 -40px;
+    margin-right: 10px;
+    margin-left: -30px;
+    padding-left: 5px;
 }
 .post-author .avatar {
 	border-radius: 50%;
@@ -99,6 +94,10 @@ a:hover {
 .post-author .intro-text a {
 	color: inherit;
 	font-weight: bold;
+}
+
+.intro-text {
+    clear:both;
 }
 
 /* Blog archive page */
@@ -134,9 +133,7 @@ font-family: 'Raleway', sans-serif;
 
 
 #wp_posts_carousel-2 {
- background-image: url('http://localhost:8888/sarah-main/wp-content/uploads/2015/09/widgetbg.png');
-   
-    
+ background-image: url('http://localhost:8888/sarah-main/wp-content/uploads/2015/09/widgetbg.png');  
     
 }
 
@@ -153,4 +150,18 @@ font-family: 'Raleway', sans-serif;
 }
     
 
+/* Blog index styles */
+
+#aboutme {
+    Float:left;
+    width:30%;
+    min-width: 150px;
+    height:300px;   
+    
+}
+
+#blog-left{
+    float:right;
+    width:65%;
+}
     
