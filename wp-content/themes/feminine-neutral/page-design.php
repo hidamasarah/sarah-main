@@ -78,7 +78,7 @@ get_header(); ?>
 
  <div class="services">  
 <h2>Add-Ons</h2>
-<ul>Add a signature or photo to all of your blog posts —$50</li>
+<ul><li>Add a signature or photo to all of your blog posts —$50</li>
  <li>Plugins to optimize your blog for Pinterest —$30</li>
  <li>Custom-designed sidebar —$200</li>
 <li>Add an image carousel to your main page —$75</li>
