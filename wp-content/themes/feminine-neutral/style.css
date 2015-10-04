@@ -25,7 +25,7 @@
 
 
 
-h1
+h1,
 h3,
 h4,
 h5,
@@ -206,14 +206,57 @@ font-family: 'Raleway', sans-serif;
 #aboutme {
     Float:left;
     width:30%;
-    min-width: 150px;
+    min-width: 100px;
     height:300px; 
 }
 
-#blog-left{
+#blog-right {
     float:right;
     width:65%;
 }
+
+@media only screen and (max-width: 500px) {
+    
+    #aboutme {
+        width:100%;
+        height:auto;
+        margin-bottom: 40px;
+    }
+    
+    #blog-right {
+        clear:both;
+        width:100%;
+    }
+}
+    
+    
+    @media only screen and (max-width: 700px) and (orientation: landscape)  {
+    .post-author .avatar {
+	width: 100px;
+	height: 100px;   
+    
+    }
+        
+    p {
+        font-size: 1em;
+    }
+           
+    }
+      
+        
+@media only screen and (max-width: 700px) {        
+    .post-author {
+    margin-right: 0;
+    margin-left: 0;
+}
+    
+.social-icons img {
+    height:30px;
+        
+}
+}
+    
+
 
 
 /* Design page styles */
