@@ -20,7 +20,13 @@ get_header(); ?>
 
 <P>I'm here to help you, from the big changes to the small fixes. I can create a whole new site or blog for you, customize and install a new theme for you, update a theme or style you already love, or just make a few changes to fix errors and swap out content on your website or blog.  </P>
 
-<P>Below, you’ll find the packages I offer, along with standard extras. If you need help choosing what’s right for you, or if you want to discuss adding on other custom extras, please reach out for a free phone or video consultation. I love talking about site design and brand strategy, and I’d love to talk through your project with you. </p>
+<P>Below, you’ll find the packages I offer, along with standard extras. If you need help choosing what’s right for you, or if you want to discuss adding on other custom extras, please reach out for a free phone or video consultation. I love talking about site design and content strategy, and I’d love to talk through your project with you. </p>
+
+<a href="http://www.saraheggers.com/design/im-interested"><button>Contact me about design services</button></a>
+
+<br>
+<br>
+<P><em>Do you need someone with SEO and content marketing experience? <a href="#content">I can help with that, too.</a></em></P>
 
 </div>
 
@@ -43,6 +49,7 @@ get_header(); ?>
 
         <p><strong>Timeline:</strong> 4-5 weeks</p>
             <p><strong>Rate:</strong> $575</p>
+        
 </div>
     
     <div class="services">    
@@ -109,6 +116,18 @@ get_header(); ?>
 
 </div>
 
-
+    
+    <div class="services"> 
+        <a name="content">
+        <h2>Content Marketing & SEO </h2></a>
+        <p>Give your words a refresh by having your website reviewed by a content marketer. Your content will be reviewed for grammar, flow, engagement, and SEO ranking. Your analytics will also be reviewed to discover the problem areas and the hot-topic content that your audience loves to read.</p>
+        
+  <P><strong>What I can do for you:</P></strong>
+        
+        <ul><li>Use plugins to increase the SEO on your WordPress site</li>
+            <li>Review your content and suggest changes for SEO and reader engagement</li>
+            <li>Review your Google Analytics to point out your most engaging content and highlight your problem areas</li>
+            <li>Need to start from the ground up? Contact me about writing or re-writing your content </li></ul>
+ 
 
 <?php get_footer(); ?>

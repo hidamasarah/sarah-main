@@ -30,20 +30,19 @@ get_header(); ?>
 <!--- add photo and about me text-->
     
     <div class="post-author"> 
-    <div class="avatar"><img src="http://localhost:8888/sarah-main/wp-content/uploads/2015/09/methree.jpg
-" alt=""></div>
+    <div class="avatar"><img src="http://www.saraheggers.com/wp-content/uploads/2015/10/methree.jpg" alt=""></div>
         
         <div class="intro-text">
             <P>I’m Sarah, a marketing technologist creating amazing customer experiences for entreprenuers and creative bloggers. Learn more about what I do here.</P>
             <P>I blog about web design, online marketing, social media, careers and Millennial life, and other topics that fascinate me.</P>
         </div>
     <div class="social-icons">    
-        <a href="http://wwww.facebook.com/hidama"><img src="http://localhost:8888/sarah-main/wp-content/uploads/2015/09/FBicon.png"></a>
+        <a href="http://wwww.facebook.com/hidama"><img src="http://www.saraheggers.com/wp-content/uploads/2015/10/FBicon.png"></a>
         
         
-        <a href="http://www.twitter.com/hidama"> <img src=" http://localhost:8888/sarah-main/wp-content/uploads/2015/09/twittericon.png"></a>
+        <a href="http://www.twitter.com/hidama"> <img src="http://www.saraheggers.com/wp-content/uploads/2015/10/twittericon.png"></a>
         
-          <a href="http://www.pinterest.com/hidama"><img src="http://localhost:8888/sarah-main/wp-content/uploads/2015/09/social_03.png"></a>
+          <a href="http://www.pinterest.com/hidama"><img src="http://www.saraheggers.com/wp-content/uploads/2015/10/social_03.png"></a>
 				</div>
     </div>
     </div>

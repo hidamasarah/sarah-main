@@ -1,12 +1,12 @@
 /*
  Theme Name:   Feminine Neutral
  Theme URI:    http://www.saraheggers.com
- Description:  Feminie Neutral Theme, a child theme of omega
+ Description:  A blog theme with feminine fonts and neutral colors, a child teme of Omega.
  Author:       Sarah Eggers
  Author URI:   http://www.saraheggers.com
- Template:     omega
+ Template:     Feminine Neutral
  Version:      1.0.0
- Tags:         blog, light, right-sidebar, responsive-layout, accessibility-ready
+ Tags:         blog, light, neutral color, responsive-layout, accessibility-ready
  Text Domain:  feminine-neutral
  */
 
@@ -275,6 +275,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 .design-page {
+    padding-bottom:40px;
     border-bottom: 1px solid #BFBFBF;
 }
 
@@ -285,7 +286,15 @@ font-family: 'Raleway', sans-serif;
     border-bottom: 1px solid #BFBFBF;
 }
 
-    
-    
+ /* Social consulting page styles */
 
-    
+
+#social {    
+    color: #7F5A5F;
+}
+
+/* career advice page */
+
+  #career {    
+    color: #5F6173;
+}  
